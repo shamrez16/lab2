@@ -16,7 +16,7 @@ To get you started, we included a small hello world application.
 
 3) Make some changes to the file, save, watch the preview, and have fun!
 
-Happy coding!
+Happy coding! 
 The Cloud9 IDE team
 
 
